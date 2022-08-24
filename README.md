@@ -1,1 +1,1 @@
-# djangotask-deva
+LOGIN PAGE IS MADE AND STYLED WITH CSS
